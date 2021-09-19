@@ -1,5 +1,4 @@
-this["myDemo"] =
-/******/ (function(modules) { // webpackBootstrap
+define("myDemo", [], function() { return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -81,4 +80,4 @@ var a = function a() {
 exports.default = a;
 
 /***/ })
-/******/ ]);
+/******/ ])});;
